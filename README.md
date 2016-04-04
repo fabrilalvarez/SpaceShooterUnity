@@ -1,7 +1,7 @@
 # SpaceShooterUnity
 
 > El código de la aplicación esta contenido dentro de los archivos .cs
-> SpaceShooterUnity esta programado en C#(CSharp).
+> SpaceShooterUnity esta programado en C#(CSharp).</br>
 ###DestroyBy...
 >son los scripts para instanciar acciones a la hora en que los GameObject interaccionan entre ellos cuando sus colliders se tocan.
 ###BGScroller 
