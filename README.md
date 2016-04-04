@@ -20,3 +20,5 @@
 >contiene los metodos que instancian disparos de las naves espaciales.
 ###SelectedSpaceShip
 >Instancia la nave espacial del jugador seǵún la que se haya seleccionado en la escena 'Base' donde se ejecuta el script Market. Este objeto es común de todas las escenas y se mantiene persistente a los cambios que el usuario haga.
+
+**Para mas información consulta la wiki**
