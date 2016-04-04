@@ -6,6 +6,7 @@
 > SpaceShooterUnity esta programado en C#(CSharp).
 
 ###DestroyBy...
+
 > son los scripts para instanciar acciones a la hora en que los GameObject interaccionan entre ellos cuando sus colliders se tocan.
 
 ###BGScroller 
