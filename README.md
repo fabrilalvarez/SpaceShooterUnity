@@ -14,7 +14,7 @@
 >contiene todos los metodos necesarios para gastar las monedas del jugador y comprar otras naves espaciales y otros misiles.
 ###Persistence
 >contiene los métodos para guardar valores, puntuaciones, estados, etc, dentro de un archivo. Del mismo modo que también están los métodos para cargarlos. (Aunque no están aplicados todavía en la aplicacion, con lo cual siempre que se abre el juego se empieza de nuevo).
-###SimpleTouchpad
+###Mover
 >contiene los métodos de movimiento y acceso al acelerometro del dispositivo móvil.
 ###WeaponController
 >contiene los metodos que instancian disparos de las naves espaciales.
